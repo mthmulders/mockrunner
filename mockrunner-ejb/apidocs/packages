@@ -1,0 +1,5 @@
+com.mockrunner.ejb
+com.mockrunner.example.ejb
+com.mockrunner.example.ejb.interfaces
+com.mockrunner.mock.ejb
+com.mockrunner.test.ejb
