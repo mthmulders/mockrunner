@@ -1,13 +1,8 @@
 com.mockrunner.base
-com.mockrunner.connector
-com.mockrunner.example.connector
 com.mockrunner.gen
 com.mockrunner.gen.jar
 com.mockrunner.gen.proc
-com.mockrunner.mock.connector.cci
-com.mockrunner.mock.connector.spi
 com.mockrunner.mock.web
-com.mockrunner.test.connector
 com.mockrunner.test.consistency
 com.mockrunner.test.gen
 com.mockrunner.test.util
