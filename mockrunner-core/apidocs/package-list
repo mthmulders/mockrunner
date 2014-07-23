@@ -2,13 +2,8 @@ com.mockrunner.base
 com.mockrunner.gen
 com.mockrunner.gen.jar
 com.mockrunner.gen.proc
-com.mockrunner.mock.web
 com.mockrunner.test.consistency
 com.mockrunner.test.gen
 com.mockrunner.test.util
-com.mockrunner.test.web
 com.mockrunner.util.common
 com.mockrunner.util.web
-org.activemq.filter.mockrunner
-org.activemq.mockrunner.test
-org.activemq.selector.mockrunner
