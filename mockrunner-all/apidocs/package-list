@@ -1,3 +1,5 @@
 com.mockrunner.base
+com.mockrunner.example.ejb
+com.mockrunner.example.jdbc
 com.mockrunner.gen.proc
 com.mockrunner.tag
