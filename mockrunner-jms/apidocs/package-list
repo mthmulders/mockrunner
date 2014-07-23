@@ -1,2 +1,5 @@
 com.mockrunner.jms
 com.mockrunner.mock.jms
+org.activemq.filter.mockrunner
+org.activemq.mockrunner.test
+org.activemq.selector.mockrunner
